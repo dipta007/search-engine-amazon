@@ -4,9 +4,14 @@ A search engine based on elastic search on the 1M scrapped amazon products
 
 ## Getting Started
 
-Used 1 GOOGLE Compute Engine for backend server  
+* Used 1 GOOGLE Compute Engine for backend server  
 f1-micro (1 vCPU, 0.6 GB memory) - 4.28$/month  
 It is used as the backend API centre for the whole search engine
+
+* Used 1 GOOGLE Compute Engine for the storage  
+Custom(2 vCPU, 4.75 GB memory) - 45/10$/month  
+It is the used as the backend storage for the search engine.  
+Used ElasticDB as the storage.
 
 ## API
 
