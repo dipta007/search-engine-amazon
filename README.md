@@ -44,9 +44,9 @@ It will start the server on localhost:8080
 
 ## Built With
 
-* [Express](http://www.dropwizard.io/1.0.2/docs/) - The web framework
-* [ElasticSearch](https://maven.apache.org/) - Dependency Management
-* [NodeJS](https://rometools.github.io/rome/) - MAin engine behind backend
+* [NodeJS](http://nodejs.org/) - MAin engine behind backend
+* [Express](http://expressjs.com/) - The web framework
+* [ElasticSearch](https://www.elastic.co/) - Dependency Management
 
 ## Authors
 
